@@ -53,7 +53,6 @@ function Projects() {
       projectTech: [
         "React.js",
         "Axios",
-        "React Icons",
         "Netlify Cli",
         "Styled Components",
       ],
