@@ -49,9 +49,9 @@ function About() {
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">Node.js</li>
-            <li className="about-grid-info-list-item">Golang</li>
+            <li className="about-grid-info-list-item">PHP Laravel</li>
             <li className="about-grid-info-list-item">React.js</li>
-            <li className="about-grid-info-list-item">Flutter</li>
+            <li className="about-grid-info-list-item">Golang</li>
           </ul>
         </div>
         <div className="about-grid-photo">

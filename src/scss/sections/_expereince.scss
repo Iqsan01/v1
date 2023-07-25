@@ -23,7 +23,7 @@
         width: 300px;
         height: 2px;
         margin-left: 380px;
-        background-color: var(--lightest-navy);
+        background-color: var(--lightest-gray);
       }
     }
   }
@@ -50,7 +50,7 @@
         content: "";
         height: 100%;
         width: 1px;
-        background-color: var(--lightest-navy);
+        background-color: var(--lightest-gray);
       }
       &-item {
         height: 2.5rem;
@@ -68,7 +68,7 @@
           font-size: var(--tsm1);
         }
         &:hover {
-          background-color: var(--light-navy);
+          background-color: var(--light-gray);
           span {
             color: var(--theme-color);
           }

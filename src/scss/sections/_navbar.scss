@@ -90,7 +90,7 @@ nav {
         visibility: hidden;
         top: 0;
         padding: 50px 10px;
-        background-color: var(--lightest-navy);
+        background-color: var(--lightest-gray);
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -115,7 +115,7 @@ nav {
     transition: 0.3s ease-in-out;
     z-index: 100;
     background-color: rgba(17, 17, 17, 0.5);
-    box-shadow: 0 10px 30px -10px var(--navy-shadow);
+    box-shadow: 0 10px 30px -10px var(--gray-shadow);
     backdrop-filter: blur(10px);
   }
 }

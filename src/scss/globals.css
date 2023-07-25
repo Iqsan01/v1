@@ -1,8 +1,8 @@
 :root {
-  --navy-shadow: rgba(51, 51, 51, 0.7);
+  --gray-shadow: rgba(51, 51, 51, 0.7);
   --background-color: #111111;
-  --lightest-navy: #222222;
-  --light-navy: #333333;
+  --lightest-gray: #222222;
+  --light-gray: #333333;
   --dark-slate: #495670;
   --slate: #8892b0;
   --light-slate: #a8b2d1;
